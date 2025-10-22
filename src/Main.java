@@ -6,4 +6,6 @@ public class Main {
         public static void funcionDos () {}
 
 
-}
+    public static void funcionTres() {
+
+    }    }
